@@ -1,4 +1,4 @@
-# Players documention
+# Players Documentation
 
 # Get All Players
 
